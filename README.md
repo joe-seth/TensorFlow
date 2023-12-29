@@ -22,5 +22,17 @@
   </td>
   <td><a href ="https://github.com/joe-seth/NLP-Medical-Abstract-Segmentation-Using-TensorFlow">View Project</a></td>
   </tr>
+  <tr>
+  <td>00</td>
+  <td><a href="https://github.com/joe-seth/TensorFlow-Disaster-Tweets">NLP-Disaster Tweets</a></td>
+  <td>NLP mini project for identifying tweets classied as disaster and not a disaster</td>
+  <td>Python,
+    Pandas,
+    TensorFlow,
+    NLP,
+    Transfer Learning
+  </td>
+  <td><a href ="https://github.com/joe-seth/TensorFlow-Disaster-Tweets">View Project</a></td>
+  </tr>
   </tbody
 </table>
